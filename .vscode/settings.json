@@ -1,0 +1,36 @@
+{
+    "cSpell.words": [
+        "addsupplierproducts",
+        "addsuppliers",
+        "appslot",
+        "Bfrtip",
+        "cardtext",
+        "cartinsert",
+        "cartresult",
+        "categoryname",
+        "chainsproket",
+        "Cpass",
+        "Datatables",
+        "datetime",
+        "dbcon",
+        "gcash",
+        "getsupplierproducts",
+        "jsdelivr",
+        "MOTO",
+        "Motojen",
+        "motojenlogofinal",
+        "Motolight",
+        "notif",
+        "qrcode",
+        "serv",
+        "Swal",
+        "sweetalert",
+        "tiresnew",
+        "updt"
+    ],
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#4E1E24",
+        "titleBar.activeBackground": "#6D2932",
+        "titleBar.activeForeground": "#FEFBFC"
+    }
+}

@@ -1,0 +1,1 @@
+<div class="credit">&copy; copyright @ 2023 by <span>MOTO-JEN</span> | all rights reserved!</div>

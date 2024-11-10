@@ -1,0 +1,14 @@
+.box{
+    background-color: antiquewhite;
+}
+.stock-indicator {
+    font-weight: bold;
+}
+
+.stock-indicator.red {
+    color: red;
+}
+
+.stock-indicator.green {
+    color: green;
+}

@@ -1,0 +1,10 @@
+
+php_value display_errors 1
+
+DirectoryIndex home.php
+ErrorDocument 404 /home.php
+RewriteEngine On
+
+RewriteCond %{HTTP_HOST} ^subdomain\.example\.com$
+RewriteCond %{REQUEST_URI} !^/subdomains/subdomain
+RewriteRule ^(.*)$ /subdomains/subdomain/$1 [L]
